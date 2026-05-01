@@ -1,4 +1,4 @@
-# Influencer Marketing Claude Skills
+# Influencer Marketing Agent Skills
 
 A comprehensive collection of Claude Skills for Influencer Marketing, organized around the proven IMPACT methodology framework.
 
@@ -102,7 +102,7 @@ Measure, analyze, and report on campaign performance.
 
 1. **Clone the skills to your Claude Code config:**
    ```bash
-   cp -r influencer-marketing-claude-skills/* ~/.config/claude-code/skills/
+   cp -r influencer-marketing-agent-skills/* ~/.config/claude-code/skills/
    ```
 
 2. **Start with Insight:**
