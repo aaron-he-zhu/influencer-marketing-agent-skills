@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > **This is now a signpost repo — the skills live in [aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills).**
-> The 16 influencer-marketing skills listed below are actively developed there, as one of 5 disciplines in an 86-skill bundle sharing one contract, six benchmark-driven gates, and keyless data connectors. This repo's former standalone 18-skill IMPACT line is preserved, unchanged, at tag [`standalone-final`](https://github.com/aaron-he-zhu/influencer-marketing-agent-skills/tree/standalone-final) and receives no updates — already-installed copies keep working; new installs come from the bundle.
+> The 16 influencer-marketing skills listed below are actively developed there, as one of 7 disciplines in a 120-skill bundle sharing one contract, eight benchmark-driven gates, and keyless data connectors. This repo's former standalone 18-skill IMPACT line is preserved, unchanged, at tag [`standalone-final`](https://github.com/aaron-he-zhu/influencer-marketing-agent-skills/tree/standalone-final) and receives no updates — already-installed copies keep working; new installs come from the bundle.
 
 16 skills covering **discover → plan → activate → measure** (the old six-phase IMPACT collapses into four), scored by the [C³ benchmark](https://github.com/aaron-he-zhu/influencer-marketing-c3-benchmark) with `content-reviewer` as the ART gate. Entrypoint command: `/aaron-marketing:impact`.
 
