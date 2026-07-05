@@ -1,6 +1,8 @@
 # Influencer Marketing Agent Skills
 
-> **📦 Merged into [aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills)** — these skills are now part of the unified marketing skills library (v10.0.0), which bundles SEO/GEO and influencer-marketing skills with the CORE-EEAT, CITE, and C³ frameworks. This repo remains as the standalone source.
+> [!IMPORTANT]
+> **Archived — active development moved to [aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills).**
+> This repo is the final standalone influencer-marketing (IMPACT) line, kept read-only for reference. The umbrella bundle supersedes it with 16 influencer skills across discover → plan → activate → measure (the old six-phase IMPACT collapses into four), alongside SEO/GEO, paid-ads, and email disciplines on the same contract, the C³ framework, and keyless data connectors.
 
 A comprehensive collection of Claude Skills for Influencer Marketing, organized around the proven IMPACT methodology framework.
 
